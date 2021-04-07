@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "mc-realms": "^0.0.15",
+    "minecraft-data": "^2.82.2",
+    "mineflayer": "^3.6.0",
+    "mineflayer-auto-eat": "^2.0.0",
+    "mineflayer-pathfinder": "^1.6.1",
+    "mineflayer-pvp": "^1.0.2",
+    "mineflayer-tool": "^1.1.0",
+    "prismarine-viewer": "^1.19.2"
+  },
+  "devDependencies": {
+    "vec3": "^0.1.7"
+  }
+}
